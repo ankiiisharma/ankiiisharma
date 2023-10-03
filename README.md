@@ -1,12 +1,14 @@
-[![](https://visitcount.itsvg.in/api?id=ankiiisharma&icon=0&color=0)](https://visitcount.itsvg.in)
+<!--- [![](https://visitcount.itsvg.in/api?id=ankiiisharma&icon=0&color=0)](https://visitcount.itsvg.in) --> 
 
 <h3 align="center">Hi, I'm Ankit Sharma</h3>
 
 ###
 
-<h5 align="center">I'm currently learning Node Js</h5>
+<h4 align="center">I'm currently learning Node Js</h4>
 
 ###
+
+<br clear="both">
 
 <h2 align="center">Tech Stack</h2>
 
@@ -38,7 +40,11 @@
 
 ###
 
-<p align="left"></p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ankiiisharma.ankiiisharma&"  />
+</div>
+
+###
 
 ###
 
