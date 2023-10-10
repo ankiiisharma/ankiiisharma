@@ -1,4 +1,4 @@
-<!--- [![](https://visitcount.itsvg.in/api?id=ankiiisharma&icon=0&color=0)](https://visitcount.itsvg.in) --> 
+<!--- [![](https://visitcount.itsvg.in/api?id=ankiiisharma&icon=0&color=0)](https://visitcount.itsvg.in)  
 
 <h3 align="center">Hi, I'm Ankit Sharma</h3>
 
@@ -37,7 +37,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="40" alt="adobeaftereffects logo"  />
 </div>
-
+-->
 ###
 
 <div align="center">
