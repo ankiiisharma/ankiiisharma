@@ -1,8 +1,4 @@
-Hi there, I am **Ankit Sharma**
+hi there!
 
-## Skills
-- 👨‍💻 C, C++, Python, JavaScript, TypeScript...
-- ⚙️ React, NextJs,
-- 👁️ TailwindCSS,Bootstrap
-- 💽 MySQL, SQL, Mongo, PostgresSQL
-+ a lot more :D
+
+[![link](https://img.icons8.com/?size=30&id=kdi6nQ1tYpvn&format=png&color=FFFFFF)](https://ankiiisharma.web.app/)
