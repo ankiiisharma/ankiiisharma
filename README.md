@@ -1,8 +1,8 @@
 ### Hi, I’m Ankit Sharma 👋
 
 ## Connect with Me
-[email](mailto:myselfankit.2003@gmail.com)
-[linkedin](https://linkedin.com/in/ankiiisharma)
+[email](mailto:myselfankit.2003@gmail.com) <br>
+[linkedin](https://linkedin.com/in/ankiiisharma) <br>
 [portfolio](https://ankiiisharma.web.app)
 
 #### Languages
