@@ -1,9 +1,9 @@
-# Hi, I’m Ankit Sharma 👋
+### Hi, I’m Ankit Sharma 👋
 
 ## Connect with Me
-- **Email:** [myselfankit.2003@gmail.com](mailto:myselfankit.2003@gmail.com)
-- **LinkedIn:** [linkedin.com/in/ankiiisharma](https://linkedin.com/in/ankiiisharma)
-- **Portfolio:** [ankiiisharma.web.app](https://ankiiisharma.web.app)
+- [email](mailto:myselfankit.2003@gmail.com)
+- [linkedin](https://linkedin.com/in/ankiiisharma)
+- [portfolio](https://ankiiisharma.web.app)
 
 ## Languages I Work With
 **C | C++ | JavaScript | Python | SQL | HTML | CSS | TypeScript**
@@ -15,5 +15,5 @@
 **Git | Git Bash | GitHub | Firebase | Postman | VS Code | Figma | Adobe Photoshop | Docker**
 
 ---
- 
-**Thanks for stopping by!**✨
+
+**Thanks for stopping by!** ✨
