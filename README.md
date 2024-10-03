@@ -18,7 +18,7 @@
   <a href="https://ankiiisharma.web.app/" target="_blank" rel="noreferrer">
     <img src="https://media1.tenor.com/m/-N6XorNCgW0AAAAC/good-morning.gif" width="32" height="32" alt="LinkedIn" />
   </a>
-  <a href="https://www.linkedin.com/in/ankitsharma/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/ankiiisharma/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" height="32" alt="LinkedIn" />
   </a>
   <a href="http://www.instagram.com/heyankiii" target="_blank" rel="noreferrer">
