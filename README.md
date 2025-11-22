@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/ankiiisharma/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" height="32" alt="LinkedIn" />
   </a>
-  <a href="http://www.instagram.com/heyankiii" target="_blank" rel="noreferrer">
+  <a href="http://www.instagram.com/nawtankiii" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="40" height="32" alt="Instagram" />
   </a>
   <a href="https://twitter.com/heyankiii" target="_blank" rel="noreferrer">
